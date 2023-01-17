@@ -1,1 +1,2 @@
-nhggf My first readme
+#!/bin/bash
+echo "The school is open!"
